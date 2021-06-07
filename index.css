@@ -1,0 +1,12 @@
+ul {
+    list-style-type: decimal;
+}
+
+li {
+    margin: 10px;
+}
+
+li p {
+    font-family: Consolas,"courier new";
+}
+
